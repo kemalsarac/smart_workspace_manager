@@ -27,9 +27,6 @@ class _ModEditorPageState extends State<ModEditorPage> {
 void initState() {
   super.initState();
 
-  // 👇 SADECE GÖRSEL İÇİN BURAYA EKLE
-  selectedToOpen.add("C:\\Program Files (x86)\\Steam\\steamapps\\common\\Lossless Scaling\\LosslessScaling.exe");
-  selectedToOpen.add("C:\\Desktop\\Midnightcs2.exe");
 
   if (widget.modName != null) {
     modNameController.text = widget.modName!;
