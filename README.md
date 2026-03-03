@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # smart_workspace_manager
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# smart_workspace_manager
+>>>>>>> 2c290f9fdab6b8d9509f89ba67ab738a63b4c6b1
